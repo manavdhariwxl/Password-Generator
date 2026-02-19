@@ -1,2 +1,2 @@
 # Password-Generator
-A random Password Generator with customizable length and character options.
+This Project generates secure passwords using javascript.users can select password length and iclude uppercase,lowercase,numbers, and symbols. 
